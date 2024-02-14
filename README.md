@@ -4,7 +4,7 @@
 
 This application was developed during Rocketseat’s NLW Experts using React, typescript, Tailwind and the SpeechRecognition API.
 
-## Executando
+## Running
 
 After cloning the repository, access the project folder and execute the commands below:
 
